@@ -412,14 +412,12 @@ Contributions are more than welcome! Please check out the [contributing guide](C
 
 ## Add .env with this content
 
+```
 # Port number
-
 PORT=3001
 
 # URL of the Mongo DB
-
 MONGODB_URL=mongodb://localhost:27017/express-poc
-
 WEBSITE_DOMAIN=http://localhost:3000
 
 # JWT
@@ -453,6 +451,7 @@ SMTP_PORT=587
 SMTP_USERNAME=ld2fgr5e6pbiow5l@ethereal.email
 SMTP_PASSWORD=Pm3yjkB5hQQdVDyMzv
 EMAIL_FROM=support@expresspoc.com
+```
 
 ## Postman
 
